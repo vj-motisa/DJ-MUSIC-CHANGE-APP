@@ -1,0 +1,63 @@
+.heading {
+    font-size: 23px;
+    margin: 0px;
+    margin-bottom: -15px;
+    width: 100%;
+
+}
+
+.note {
+    font-size: 15px;
+    color: black;
+}
+
+body {
+    background-size: contain;
+}
+
+.speed {
+    float: left;
+}
+
+.diskspeed {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#h3speed {
+    font-size: 23px;
+    margin: 15px;
+}
+
+.koko {
+    width: 70px;
+}
+
+
+
+.div {
+    float: right;
+}
+
+.img {
+    width: 200px;
+    border-radius: 100px;
+}
+
+#h3volume {
+    font-size: 23px;
+    margin: 15px;
+}
+
+canvas {
+    background-color: black;
+    margin: 62.538652px;
+    border-width: 3.5439px;
+    border-radius: 25px;
+    border-color: darkmagenta;
+    border-style: dashed;
+}
+
+#dhokha {
+    margin: -25px;
+}
